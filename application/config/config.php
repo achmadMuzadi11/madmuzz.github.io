@@ -23,7 +23,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://localhost/WP_LOGIN';
+$config['base_url'] = 'https://achmadmuzadi11.github.io/madmuzz.github.io/';
 
 /*
 |--------------------------------------------------------------------------
